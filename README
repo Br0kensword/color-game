@@ -1,0 +1,7 @@
+This is my first repo on github featuring code for an interactive website that allows users to make fields of
+ 
+mosaic color tiles within the playing field. The site makes use of Javascript HTML/CSS and jQuery effects
+
+along with a random color generator that will eventually be expanded to include a much larger selection of
+
+colors as well as a more sophisticated game to be played.
