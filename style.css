@@ -1,0 +1,141 @@
+html {
+    background-color : #669999;
+}
+
+div {
+        height : 50px;
+        border : solid 1px black; 
+        background-color : white;
+}
+
+#header {
+        height :40px;
+        width : auto;
+        margin-left : ;
+        margin-bottom : 5px;
+        border-radius : 10px;
+}
+
+#header p {
+        font-size : 20px;
+        text-align : center;
+        margin-top : -1px;
+}
+
+#MainMenu {
+	      height :40px;
+          width : auto;
+          margin-bottom : 5px;
+          border-radius : 10px;
+		  background-color: black;
+}
+
+#left {
+		background-color: #FF298F;
+}
+
+#middle {
+		background-color: #8552D6;
+}
+
+#right {
+		background-color: #669999;
+}
+
+#Music {
+        width:100px;
+        height : 100px;
+        text-align : center
+}   
+   
+#game {
+        height : 600px;
+        width : 60%;
+        margin-left : 310px;
+        border-radius : 20px;
+		position: relative;
+		background-image : url("file:///C:/Users/WinView/Desktop/coding%20project/texture%20files/diagonal_striped_brick/diagonal_striped_brick/diagonal_striped_brick.png");
+        
+    
+}
+#game p {
+        text-align : center;
+}
+.box {
+            width : 100px;
+            height : 100px;
+            margin-bottom :2px;
+            margin-left : 10px;
+            position : relative;
+            display : inline-block;
+			box-shadow : 3px 3px 5px 6px #ccc;
+        
+}
+.box p {
+        text-align : center;
+        margin-top : -1px;
+}
+
+.selector {
+            width : 510px;
+            height : 33px;
+			margin-left : 5px;
+            margin-bottom :2px;
+            position : relative;
+            display : inline-block;
+			border : solid 1px black;
+}
+.selector p {
+			 text-align : center;
+             margin-top : -1px;
+}
+#foot{
+		background-color: #D1D1E0;
+		height: 70px;
+		position : absolute ;
+		left: 0;
+		right : 0;
+	
+		}
+		
+#changer {
+            height:75px;
+            width:75px;
+			position: relative;
+			text-align : center;
+			font-family : Verdana;
+			box-shadow : 0px 1px 2px 1px #1A1A1A;
+			
+}
+#changer p{
+			margin-top: 25px;
+			}
+.changer{
+            background-color: red;
+}
+
+#jp_container_1 {
+		  width : 75px;
+		  height : 75px;
+		  position: relative ;
+		  left: 1488px;
+		  bottom: 81px;
+		  box-shadow : 0px 1px 2px 1px #1A1A1A;
+}
+.jp_c {
+		background-color : blue;
+		}
+		
+a.jp-play {
+			font-family : Verdana;
+			position : relative;
+			top : 25px;
+			left: 20px;
+
+}
+a.jp-pause{
+			font-family : Verdana;
+			position : relative;
+			top : 25px;
+			left: 12px;
+    
